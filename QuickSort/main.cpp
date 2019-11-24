@@ -109,43 +109,6 @@ void display(vector<int>& arr)
 
 
 
-bool harderSearch(int val,vector<int>&arr)
-{
-    int lo=0;
-    int hi=arr.size();
-    bool use_binary=false;
-
-    while(lo-hi>=0)
-    {
-
-        int midNumber=lo+((hi-lo)/2);
-        int mid= use_binary? midNumber:lo+(((hi-lo)*(val-arr[lo]))/(arr[hi]-arr[lo]));
-
-        if(arr[mid]==val)
-            return true;
-
-        else if(arr[mid]>val)
-        {
-            hi=mid-1;
-            use_binary=(midNumber<mid);
-
-        }
-
-        else
-        {
-
-            lo=mid+1;
-            use_binary=(midNumber>mid);
-        }
-
-
-
-
-    }
-
-    return false;
-
-}
 
 
 void generateVector(vector<int>&arr,int size)
