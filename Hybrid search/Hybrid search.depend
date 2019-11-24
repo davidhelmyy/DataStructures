@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574604648 source:c:\users\david\desktop\c++ projects\hybrid search\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
