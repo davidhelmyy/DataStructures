@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556743988 source:c:\users\david\desktop\data structure\bst\dssasd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

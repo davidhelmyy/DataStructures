@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566762555 source:c:\users\david\desktop\data structure\hashtable\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

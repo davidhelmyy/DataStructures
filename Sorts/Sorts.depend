@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1558221628 source:c:\users\david\desktop\data structure\sorts\main.c
+	<stdio.h>
+	<stdlib.h>
+

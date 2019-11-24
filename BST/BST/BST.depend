@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1556728996 source:c:\users\david\desktop\data structure\bst\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
