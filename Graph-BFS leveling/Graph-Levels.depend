@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591111683 source:c:\users\david\desktop\college projects 2020\graph-levels\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
