@@ -17,3 +17,7 @@ Basic implementation of commonly used data structures and some sorting algorithm
 - Insertion sort
 - Heap sort
 - Bubble sort
+
+**Graph algorithms**
+-Dijkstra
+-separating levels with BFS
