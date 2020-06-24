@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1556832984 source:c:\users\david\desktop\data structure\bst\google\main.c
-	<stdio.h>
-	<stdlib.h>
-	<ctype.h>
-	<string.h>
-
