@@ -19,5 +19,5 @@ Basic implementation of commonly used data structures and some sorting algorithm
 - Bubble sort
 
 **Graph algorithms**
--Dijkstra
--separating levels with BFS
+- Dijkstra
+- separating levels with BFS
