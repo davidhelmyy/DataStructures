@@ -9,6 +9,7 @@ Basic implementation of commonly used data structures and some sorting algorithm
 - Hashtable using an array of linked lists
 - priority queue
 - linked list
+- RedBlack Tree
 
 **sorting algorithms**
 - Quick sort
